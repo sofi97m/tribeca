@@ -19,7 +19,7 @@ jobs:
         shell: nix shell .#env-anchor-idls --command bash {0}
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
 
       # Install Cachix
       - uses: cachix/install-nix-action@v17
@@ -62,7 +62,7 @@ jobs:
         shell: nix shell .#env-anchor-build --command bash {0}
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
 
       # Install Cachix
       - uses: cachix/install-nix-action@v17
