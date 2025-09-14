@@ -42,7 +42,7 @@
     "@saberhq/anchor-contrib": "^1.13.30",
     "@saberhq/chai-solana": "^1.13.30",
     "@saberhq/eslint-config": "^1.13.30",
-    "@saberhq/solana-contrib": "^1.13.30",
+    "@saberhq/solana-contrib": "^3.0.0",
     "@saberhq/token-utils": "^1.13.30",
     "@saberhq/tsconfig": "^1.13.30",
     "@solana/web3.js": "^1.44.2",
