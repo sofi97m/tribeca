@@ -470,10 +470,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@saberhq/tsconfig@npm:^1.13.30":
-  version: 1.13.30
-  resolution: "@saberhq/tsconfig@npm:1.13.30"
-  checksum: ed4582e26d36c76676235c5fda8f7c4c555fd75f8d959d30927e6ba9ac3596e9d3731d2626900899079ac07461dfcca4cf5a7cab5a69501a275ca4a239aed217
+"@saberhq/tsconfig@npm:^3.4.3":
+  version: 3.4.3
+  resolution: "@saberhq/tsconfig@npm:3.4.3"
+  checksum: 65dd2598af3dc6905a392795a7cb3bdde6226eb25c8aed4f0c578a204c8d2db9b87343f9a6d29bb0c797a1b73f862fca9a1934214408c739833ed56171a06597
   languageName: node
   linkType: hard
 
@@ -559,7 +559,7 @@ __metadata:
     "@saberhq/eslint-config": ^1.13.30
     "@saberhq/solana-contrib": ^1.13.30
     "@saberhq/token-utils": ^1.13.30
-    "@saberhq/tsconfig": ^1.13.30
+    "@saberhq/tsconfig": ^3.4.3
     "@solana/web3.js": ^1.44.2
     "@types/bn.js": ^5.1.0
     "@types/chai": ^4.3.1
